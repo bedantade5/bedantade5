@@ -1,6 +1,10 @@
 <h1 align="center">I'm Bedanta De</h1>
 <p align="center">An inquisitive and motivated Data Science Engineering student at Manipal Institute of Technology, committed to leveraging data for real-world impact.</p>
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedantade5&title=Profile%20Views" alt="Profile Views" />
+</p>
+
 ---
 
 ## 📫 Find Me Online:
