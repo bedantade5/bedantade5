@@ -46,6 +46,13 @@
 
 ---
 
+## 🧩 LeetCode Stats:
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bedantade?theme=catppuccinMocha&font=Saira&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 ## 🎯 Focus Areas:
 - Data Analysis & Visualization  
 - Applied Machine Learning Concepts  
