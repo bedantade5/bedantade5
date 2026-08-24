@@ -1,72 +1,74 @@
-<h1 align="center">Bedanta De</h1>
-<p align="center">Data Science &amp; Engineering student at Manipal Institute of Technology</p>
-
-<p align="center">
-  <a href="mailto:bedanta.de5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bedanta-de-7b343a287" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bedantade5&title=Profile%20Views" alt="Profile Views" />
-</p>
-
-<br/>
-
-## Languages &amp; Technologies
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
-<br/>
-
-## Focus Areas
-
-- Data Analysis &amp; Visualization
-- Applied Machine Learning
-- Backend &amp; API Development
-- Relational &amp; NoSQL Databases
-- Object-Oriented Design
-- Automation &amp; Tooling
-
-<br/>
-
-## GitHub Activity
-
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=bedantade5&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bedantade5&layout=compact&theme=tokyonight" height="180" />
+<h1 align="center">Bedanta De</h1>
+<a href="https://github.com/bedantade5">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=2575FC&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Full-Stack+%2B+ML+Developer;Blockchain+%26+Automation+Tinkerer;Turns+Coffee+Into+Code+%E2%98%95;Always+Shipping+Something+New" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=bedantade5&color=2575fc&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/bedantade5?label=FOLLOWERS&style=for-the-badge&color=6a11cb)
+
+### 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:bedanta.de5@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/bedanta-de-7b343a287/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=black)](https://leetcode.com/u/bedantade/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/bedantade5)
+
 </div>
 
-<br/>
+---
 
-## LeetCode
+```bash
+bedanta@github:~$ whoami
+> CS student who ends up touching every layer of the stack
+> Shipped: ML pipelines, full-stack web apps, a blockchain dApp, and bots with more personality than they need
+> Backend Dev Intern @ Vyoma Innovus Global — Spring Boot, MyBatis, AWS S3
+> Status: probably just found a bug in someone else's "working" code
+```
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/bedantade?theme=catppuccinMocha&font=Saira&ext=heatmap" alt="LeetCode Stats" />
-</p>
+---
 
-<br/>
+### 🛠️ Tech Stack
 
-<p align="center">Thanks for stopping by — always open to connect.</p>
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=py,java,js,ts,fastapi,flask,react,vite,tailwind,spring,mysql,sqlite,docker,aws,tensorflow,netlify,git,github&theme=dark&perline=9)
+
+
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bedantade5&amp;theme=react-dark&amp;hide_border=true&amp;area=true" width="90%" alt="Contribution Activity Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedantade5/bedantade5/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/bedantade5/bedantade5/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=bedantade5&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak Stats"/>
+
+
+---
+
+### 🧩 LeetCode
+
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/bedantade?theme=dark&amp;font=Karla&amp;ext=heatmap" width="60%" alt="LeetCode Stats" />
+</div>
+
+---
+
+<div align="center">
+<i>✨ Building things that (mostly) work on the first try ✨</i>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer" width="100%" alt=""/>
