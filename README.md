@@ -47,13 +47,17 @@ bedanta@github:~$ whoami
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=bedantade5&amp;theme=react-dark&amp;hide_border=true&amp;area=true" width="90%" alt="Contribution Activity Graph" />
 
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bedantade5/bedantade5/output/github-contribution-grid-snake-dark.svg" />
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/bedantade5/bedantade5/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-<div align="center">
+<br/>
+<br/>
 
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=bedantade5&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak Stats"/>
 
 
@@ -68,7 +72,7 @@ bedanta@github:~$ whoami
 ---
 
 <div align="center">
-<i>✨ Building things that (mostly) work on the first try ✨</i>
+<i>✨ Thank you for stopping by!✨</i>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:2575fc,100:6a11cb&amp;height=120&amp;section=footer" width="100%" alt=""/>
