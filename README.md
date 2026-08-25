@@ -45,7 +45,6 @@ bedanta@github:~$ whoami
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bedantade5&amp;theme=react-dark&amp;hide_border=true&amp;area=true" width="90%" alt="Contribution Activity Graph" />
 
 <br/>
 
